@@ -8,4 +8,4 @@
 
 
 ## Tema
-Aplicacion de temarios en Scratch
+Aplicacion de temarios de programación en Scratch 
